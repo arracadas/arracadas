@@ -1,4 +1,4 @@
-- 👋 Hi, I live in Maryland, MD
+- 👋 Hi, I live in Baltimore, MD
 - 👀 I’m interested in Statistical Modeling, Bayesian Analysis, Natural Language Processing and Data Visualization
 - 🌱 I’m currently learning about modern statistics using randomization and permutation.
 - 💞️ I’m looking to collaborate on education and edutech initiatives.
