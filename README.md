@@ -1,5 +1,5 @@
 - 👋 Hi, I live in Baltimore, MD
-- 👀 I’m interested in Statistical Modeling, Bayesian Analysis, Machine Learning and Data Visualization
+- 👀 I’m interested in Statistical Modeling, Machine Learning and Data Visualization
 - 🌱 I’m currently learning about modern statistics using randomization and permutation.
 - 💞️ I’m looking to collaborate on education and edutech initiatives.
 - 📫 You can reach me via linked at https://www.linkedin.com/in/buzzlite/
